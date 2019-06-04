@@ -1,0 +1,25 @@
+{
+  "name": "@gpryor/exec",
+  "version": "1.0.2",
+  "description": "* Creates subdirectories in exec `cwd`,",
+  "main": "index.js",
+  "bin": {
+    "start_exec": "./exec.coffee"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^2.6.2",
+    "mkdirp": "^0.5.1",
+    "rimraf": "^2.6.3",
+    "tree-kill": "^1.2.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "g0:git/exec"
+  }
+}
