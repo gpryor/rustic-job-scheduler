@@ -13,7 +13,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "async": "^2.6.2",
+    "async": "^3.2.2",
     "mkdirp": "^0.5.1",
     "rimraf": "^2.6.3",
     "tree-kill": "^1.2.1"
